@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\HTML_udemy"
+		},
+		{
+			"path": "..\\CSS_Udemy"
+		},
+		{
+			"path": "..\\JavaScript_Udemy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript_Udemy"
+	}
+}
